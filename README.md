@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### I am Pritesh Akhaja (he/him)👦, a junior at VNSGU University🏫 ,an student tech💻 and javascript enthusiast💝
+#### I am Pritesh Akhaja (he/him)👦, a junior at VNSGU University🏫 ,an student tech💻 and javascript enthusiast and MERN stack developer since 2019💝
 
 ---
 
