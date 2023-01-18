@@ -17,6 +17,7 @@
 
 ### Want To Contact Me? 📱
 
+[![Website Badge](https://img.shields.io/badge/-Pritesh_Akhaja-yellow?style=plastic&logo=Website&logoColor=white&link=[https://www.linkedin.com/in/pritesh-akhaja-1035571a9/](https://priteshakhaja.tech/))]([[https://www.linkedin.com/in/pritesh-akhaja-1035571a9/](https://priteshakhaja.tech/)](https://priteshakhaja.tech/))
 [![Linkedin Badge](https://img.shields.io/badge/-Pritesh_Akhaja-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritesh-akhaja-1035571a9/)](https://www.linkedin.com/in/pritesh-akhaja-1035571a9/)
 [![Instagram Badge](https://img.shields.io/badge/-priteshakhaja-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/pritesh_akhaja/)](https://instagram.com/pritesh_akhaja)
 [![Twitter Badge](https://img.shields.io/badge/-PriteshAkhaja-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/pritesh95302576/)](https://twitter.com/pritesh95302576/)
