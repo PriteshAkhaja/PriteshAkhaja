@@ -1,6 +1,17 @@
 ### Hey there 👋
 
-#### I am Pritesh Akhaja (he/him)👦, a junior at VNSGU University🏫 ,an student tech💻 and javascript enthusiast and MERN stack developer since 2019💝
+#### I hope you are doing well!
+
+#### My name is Pritesh Akhaja and I am a highly skilled NextJS developer with over 4+ years of experience. I have a strong understanding of server-side #### rendering (SSR) and static site generation (SSG) and have successfully completed numerous NextJS projects.
+
+#### I am proficient in the following areas:
+
+#### 🏆 MERN stack development
+#### 🏆 NextJS, ReactJS, NodeJS
+#### 🏆 Text processing, NLP, GPT3, chatgpt
+#### 🏆 Deployment of frontend and backend over servers such as EC2, DigitalOcean, and Azure
+#### 🏆 Web scraping using NodeJS and Python
+#### 🏆 AWS (including S3, Lambda, EC2, Route53, and DynamoDB)
 
 ---
 
